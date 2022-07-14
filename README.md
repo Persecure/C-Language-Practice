@@ -5,3 +5,5 @@
 Practice 1 : A program to check whether the input integer number is positive or negative
 
 Practice 2 : Fibonacci Series in C without recursion
+
+Practice 3 : Factorial Program using loop
