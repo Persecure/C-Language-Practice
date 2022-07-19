@@ -11,3 +11,5 @@ Practice 3 : Factorial Program using loop
 Practice 4 : Find greatest of three numbers
 
 Practice 5 : Program to calculate Simple Interest
+
+Practice 6 : Print even numbers
