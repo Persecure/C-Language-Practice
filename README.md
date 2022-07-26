@@ -14,6 +14,6 @@ Practice 5 : Program to calculate Simple Interest
 
 Practice 6 : Print even numbers
 
-Practice 7:
+Practice 7: Write a C program to compute the sum of the two given integer values. If the two values are the same, then return triple their sum.
 
 Practice 8: Write a program in C to read 10 numbers from keyboard and find their sum and average.
