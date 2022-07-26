@@ -13,3 +13,7 @@ Practice 4 : Find greatest of three numbers
 Practice 5 : Program to calculate Simple Interest
 
 Practice 6 : Print even numbers
+
+Practice 7:
+
+Practice 8: Write a program in C to read 10 numbers from keyboard and find their sum and average.
