@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+void main() {
+    int j;
+    int i;
+    int n;
+
+    printf("Input onto the table number starting from 1: ");
+    scanf("%d",&n);
+    printf("Multiplication table from 1 to %d \n",n);
+    for(i=1;i<=10;i++)
+    {
+     for(j=1;j<=n;j++)
+     {
+       if (j<=n-1)
+       printf("[%d x %d = %d]",j,i,i*j);
+       else
+       printf("[%d x %d = %d] ",j,i,i*j);
+     }
+
+       printf("\n");
+    }
+
+}
