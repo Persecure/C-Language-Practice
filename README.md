@@ -19,3 +19,5 @@ Practice 7 : Write a C program to compute the sum of the two given integer value
 Practice 8 : Write a program in C to read 10 numbers from keyboard and find their sum and average.
 
 Practice 9 : Display n number of multiplication table vertically
+
+Practice 10 : Command Line Arguments
