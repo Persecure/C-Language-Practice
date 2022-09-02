@@ -22,4 +22,4 @@ Practice 9 : Display n number of multiplication table vertically
 
 Practice 10 : Command Line Arguments
 
-Practice11 : Learning about pointers
+Practice 11 : Learning about pointers
