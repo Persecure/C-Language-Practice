@@ -21,3 +21,5 @@ Practice 8 : Write a program in C to read 10 numbers from keyboard and find thei
 Practice 9 : Display n number of multiplication table vertically
 
 Practice 10 : Command Line Arguments
+
+Practice11 : Learning about pointers
